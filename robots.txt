@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rochesterplumbingteam.com/sitemap.xml
